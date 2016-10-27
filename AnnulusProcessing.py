@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun 10 14:14:45 2014
-
-Make the annular selector / averager available for import 
-
-@author: Orenstein
 """
 
 import numpy as np
